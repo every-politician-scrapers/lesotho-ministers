@@ -1,1 +1,30 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q108599088,Motlohi Maliehe,Motlohi Maliehe,male,1958-01-01,9,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109819668,Minister of Forestry and Land Reclamation,Q108599088-8AF99003-1F7E-4A7F-9D9A-E3C19C81C7D5
+Q108608872,Motlalentoa Letsosa,Motlalentoa Letsosa,male,1974-12-18,11,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109819704,Minister of Home Affairs,Q108608872-F0B73F71-60A1-4E41-8C9D-5C5EF4417AA0
+Q108610363,Nkaku Kabi,Nkaku Kabi,male,1973-01-01,9,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109819869,Minister of Agriculture and Food Security,Q108610363-90841386-273E-48F1-B4B3-059DA7075D4F
+Q108687143,Likeleli Tampane,Likeleli Tampane,female,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109819780,"Minister of Gender, Youth, sports and Recreation",Q108687143-68BA6C5E-0DE4-414B-ABA2-5B2ECDEDE686
+Q108687218,Keketso Sello,Keketso Utloang Sello,male,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109819950,Minister of Public Service,Q108687218-4F76C39D-8F37-4B7B-A294-5C1300E4F760
+Q108731847,Lebohang Monaheng,Lebohang Monaheng,male,1970-08-12,11,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109819810,Minister of Public Works,Q108731847-E670F78C-BE3F-4E7B-B685-F157BD3515EA
+Q108732213,Lekhetho Rakuoane,Lekhetho Rakuoane,male,1960-05-20,11,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q99520897,Minister of Law and Justice,Q108732213-4AF901B2-0586-412D-8242-A085541F4A26
+Q109820079,Dr Thabiso Molapo,Thabiso Molapo,male,1959-03-18,11,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109820081,Minister of Trade and Industry,Q109820079-2C94CF2C-4708-471B-8ACD-E315F334F2F6
+Q109820132,Halebonoe Setšabi,Halebonoe Setšabi,male,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109820133,Minister of Defence and National Security,Q109820132-88747D56-E573-47BA-BEC0-053B53E22199
+Q109820237,Kemiso Mosenene,Kemiso Mosenene,male,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109820239,Minister of Water,Q109820237-BEF353E4-4F5C-44E7-9B26-68EEE4DA5598
+Q109820286,Lehlohonolo Moramotse,Lehlohonolo Moramotse,male,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109820288,Minister of Local Government and Chieftainship,Q109820286-2D98CA22-08B0-4046-B60C-3066E4A5D597
+Q109820321,Lepota Sekola,Lepota Sekola,male,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109820323,Minister of Police and Public Safety,Q109820321-B366F107-2EDB-4BAB-9BF9-DC54B245994B
+Q109820492,Likopo Mahase,Likopo Mahase,male,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109820493,Minister in the Prime Minister's Office,Q109820492-8B37D48B-1785-458A-8667-BA0BFD573388
+Q109820556,Machesetsa Mofomobe,Machesetsa Mofomobe,male,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109820559,"Minister of Small Business Development, Cooperatives and Marketing",Q109820556-B433E728-1838-4676-B85C-81FC392D1170
+Q109820651,Mohapi Mohapinyane,Mohapi Mohapinyane,male,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109820653,Minister of Energy and Meteorology,Q109820651-1DFB3496-01A6-42FD-B56F-C46EA5F75BAA
+Q109820720,Mohl. Tšoeu Mokeretla,Mohl. Tšoeu Mokeretla,male,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109820722,Minister of Transport,Q109820720-668671C3-F562-4CF6-8A07-44FA4E6F1102
+Q109820789,Moshe Leoma,Moshe Leoma,male,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109820791,Minister of Labour and Employment,Q109820789-83152716-6266-455A-B3B0-5C4D36AC71DB
+Q109820899,Semano Sekatle,Semano Sekatle,male,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109820901,Minister of Health,Q109820899-A3A69AC5-FBCE-4471-ADDD-8D494B23C6B2
+Q109820943,Serialong Qoo,Serialong Qoo,male,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109820945,Minister of Mining,Q109820943-3C42573F-FD8F-4FF4-880B-A6FF0AD9E315
+Q109821004,Tšoinyane Rapapa,Tšoinyane Rapapa,male,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109821005,"Minister of Communications, Science and Technology",Q109821004-B32FB66A-7520-4232-BEC7-0373F0C1508A
+Q109821061,‘Mamookho Phiri,‘Mamookho Phiri,female,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109821063,Minister of Education and Training,Q109821061-43A61DE8-52BA-4D03-8510-89391AE79946
+Q109821094,‘Matebatso Doti,‘Matebatso Doti,female,1952-08-20,11,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109821096,Minister of Social Development,Q109821094-052E9E2A-5285-4EBD-92A1-B59CC5848790
+Q30702245,Selibe Mochoboroane,Selibe Mochoboroane,male,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109819798,Minister of Development and Planning,Q30702245-FB7367FF-0B72-455A-863C-2B94BC9AE581
+Q7067635,Ntloi Motsamai,Ntlhoi Motsamai,female,1963-01-01,9,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109819751,"Minister of Tourism, Environment and Culture",Q7067635-540D13D0-00AA-48F2-9A5B-ADD180CABC3A
+Q91621859,Dr Moeketsi Majoro,Moeketsi Majoro,male,1961-11-03,11,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q30101454,Prime Minister,Q91621859-9ea9a590-4196-9a80-4a56-66f0b922639b
+Q95587340,‘Matšepo Ramakoae,’Matšepo Ramakoae,female,1954-03-03,11,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q99518198,Minister of Foreign Affairs and International Relations,Q95587340-99A13903-E068-4FDD-B306-9FC418A6422D
+Q96286614,Mathibeli Mokhothu,Mathibeli Mokhothu,male,1977-01-01,9,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109819569,Minister of Parliamentary Affairs,Q96286614-878D3D2D-F6AE-474E-91BD-9FD528646737
+Q96286614,Mathibeli Mokhothu,Mathibeli Mokhothu,male,1977-01-01,9,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q109819546,Deputy Prime Minister,Q96286614-9E5E8917-95D9-4E16-AEA2-8C1343AF33B7
+Q99355412,Thabo Sophonea,Thabo Sofonea,male,,,https://www.gov.ls/hismajestyscabinet/,2021-11-29,Q99354860,Minister of Finance,Q99355412-851591ef-4f39-b221-9fa7-0958d0d9f09e
