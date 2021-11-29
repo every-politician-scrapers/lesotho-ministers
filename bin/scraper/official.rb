@@ -14,7 +14,7 @@ class MemberList
     end
 
     def position
-      noko.css('.designation').text.tidy
+      noko.css('.designation').text.tidy.split(/and (?=Minister)/).map(&:tidy)
     end
   end
 
