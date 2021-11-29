@@ -7,17 +7,24 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      Name.new(
+        full: noko.css('.name').text.tidy,
+        prefixes: %w[The Right Honourable],
+      ).short
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.css('.designation').text.tidy
     end
   end
 
   class Members
+    def member_items
+      super.reject { |row| row.name.empty? }
+    end
+
     def member_container
-      noko.css('.member')
+      noko.css('.tlp-content')
     end
   end
 end
