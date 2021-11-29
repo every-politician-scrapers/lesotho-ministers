@@ -1,0 +1,104 @@
+{
+  "title": "Sephiri Motanyane",
+  "pageID": 68906533,
+  "categories": [
+    "Living people",
+    "1939 births",
+    "Members of the National Assembly (Lesotho)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sephiri Enoch Montanyane (born in 1939) is a Lesotho politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lesotho"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sephiri Enoch Montanyane"
+                ]
+              }
+            },
+            {
+              "text": "He is currently serving as the Speaker of the National Assembly in the Lesotho Parliament appointed in June 2017.",
+              "links": [
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Lesotho)"
+                }
+              ]
+            },
+            {
+              "text": "Montanyane was formerly a Minister in the Prime Minister's office."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Lesotho politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "National Assembly",
+          "url": "https://data.ipu.org/content/lesotho?chamber_id=13443",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2020-05-22",
+          "title": "SPEAKER CONGRATULATES NEW CABINET",
+          "url": "https://www.gov.ls/speaker-congratulates-new-cabinet/",
+          "access-date": "2021-10-06",
+          "website": "Government of Lesotho",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Lesotho: Coalition government of PM Thomas Thabane collapses",
+          "url": "https://www.aljazeera.com/news/2020/5/11/lesotho-coalition-government-of-pm-thomas-thabane-collapses",
+          "access-date": "2021-10-06",
+          "website": "www.aljazeera.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Lesotho (08/99)",
+          "url": "https://2009-2017.state.gov/outofdate/bgn/lesotho/12551.htm",
+          "access-date": "2021-10-06",
+          "website": "U.S. Department of State",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "lesotho-politician-stub"
+        }
+      ]
+    }
+  ]
+}
