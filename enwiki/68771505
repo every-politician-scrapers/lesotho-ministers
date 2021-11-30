@@ -81,64 +81,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "Background and education",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nkaku Kabi was born on the 10th of July 1973 at Mazenod in Maseru.",
-              "links": [
-                {
-                  "text": "Mazenod",
-                  "type": "internal",
-                  "page": "Mazenod, Lesotho"
-                },
-                {
-                  "type": "internal",
-                  "page": "Maseru"
-                }
-              ]
-            },
-            {
-              "text": "Kabi got his First School Leaving Certificate from Mazenod Primary School in 1988 and his Secondary School Certificate from Masianokeng high school in 1994."
-            },
-            {
-              "text": "Kabi received a Bachelor’s Degree in Development Studies and English from the National University of Lesotho and Honours Degree in Development Administration from the University of South Africa."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Career",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Kabi started his career as a tutor in bishop Mohlalisi High School."
-            },
-            {
-              "text": "Thereafter, he worked as a Lecturer in Limkokwing University of Creative Technology."
-            },
-            {
-              "text": "Kabi also served as a Member of Parliament in Lesotho."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
     }
   ]
 }

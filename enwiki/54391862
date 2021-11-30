@@ -94,18 +94,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "lesotho-politician-stub"
-        }
-      ]
     }
   ]
 }
