@@ -1,6 +1,7 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q41542585,King of Lesotho,Q1013,Q1013,,Q878227,1822,,,,
 Q30101454,Prime Minister of Lesotho,Q1013,Q1013,,Q947883,1965-05-06,,,,
+Q109819546,Deputy Prime Minister of Lesotho,Q1013,Q1013,,,,,,,
 Q109819869,Minister of Agriculture and Food Security,Q1013,Q1013,,,,,,,
 Q109821005,"Minister of Communications, Science and Technology",Q1013,Q1013,,,,,,,
 Q109820133,Minister of Defence and National Security,Q1013,Q1013,,,,,,,
