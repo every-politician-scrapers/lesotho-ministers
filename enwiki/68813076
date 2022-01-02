@@ -35,58 +35,6 @@
           "date": "October 2021",
           "template": "orphan"
         }
-      ],
-      "references": [
-        {
-          "date": "2020-05-22",
-          "title": "NEW CABINET SWORN IN",
-          "url": "https://www.gov.ls/new-cabinet-sworn-in/",
-          "access-date": "2021-09-25",
-          "website": "Government of Lesotho",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2020-10-21",
-          "title": "Small Business minister blasts officials",
-          "url": "https://lestimes.com/small-business-minister-blasts-officials/",
-          "access-date": "2021-09-25",
-          "website": "Lesotho Times",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Ministry of Communication",
-          "url": "http://www.communications.gov.ls/single_news.php?news=78",
-          "access-date": "2021-09-25",
-          "website": "www.communications.gov.ls",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Phakela",
-          "first": "Mohalenyane",
-          "date": "2021-06-16",
-          "title": "Lesotho: LCA Boss Fights Suspension",
-          "url": "https://allafrica.com/stories/202106160772.html",
-          "access-date": "2021-09-25",
-          "website": "allAfrica.com",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2018-11-19",
-          "title": "Honourable Keketso Sello",
-          "url": "https://www.gov.ls/people/honourable-keketso-sello/",
-          "access-date": "2021-09-25",
-          "website": "Government of Lesotho",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
