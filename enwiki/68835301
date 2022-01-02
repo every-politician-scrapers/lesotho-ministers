@@ -38,28 +38,6 @@
           "description": "Ministers in Lesotho",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "date": "2020-05-21",
-          "title": "Rakuoane speaks on constitutional amendment",
-          "url": "https://lestimes.com/rakuoane-speaks-on-constitutional-amendment/",
-          "access-date": "2021-09-28",
-          "website": "Lesotho Times",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2020-05-23",
-          "title": "Honourable Lekhetho Rakuoane",
-          "url": "https://www.gov.ls/team/rakuoane/",
-          "access-date": "2021-09-28",
-          "website": "Government of Lesotho",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -48,41 +48,6 @@
           "description": "Lesotho politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "title": "National Assembly",
-          "url": "https://data.ipu.org/content/lesotho?chamber_id=13443",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "2020-05-22",
-          "title": "SPEAKER CONGRATULATES NEW CABINET",
-          "url": "https://www.gov.ls/speaker-congratulates-new-cabinet/",
-          "access-date": "2021-10-06",
-          "website": "Government of Lesotho",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Lesotho: Coalition government of PM Thomas Thabane collapses",
-          "url": "https://www.aljazeera.com/news/2020/5/11/lesotho-coalition-government-of-pm-thomas-thabane-collapses",
-          "access-date": "2021-10-06",
-          "website": "www.aljazeera.com",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Lesotho (08/99)",
-          "url": "https://2009-2017.state.gov/outofdate/bgn/lesotho/12551.htm",
-          "access-date": "2021-10-06",
-          "website": "U.S. Department of State",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -44,24 +44,6 @@
           "description": "Ministers in Lesotho",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "title": "Lesotho Prime Minister Witnessed Hand-over of China-Lesotho Friendship Middle School",
-          "url": "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zwjg_665342/zwbd_665378/t1433595.shtml",
-          "access-date": "2021-09-20",
-          "website": "www.fmprc.gov.cn",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Ministry of Home Affairs - Lesotho",
-          "url": "http://www.homeaffairs.gov.ls/minister/",
-          "access-date": "2021-09-20",
-          "website": "www.homeaffairs.gov.ls",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

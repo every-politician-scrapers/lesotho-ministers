@@ -40,28 +40,6 @@
           "description": "Ministers in Lesotho",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "date": "2020-05-23",
-          "title": "Cabinet",
-          "url": "https://www.gov.ls/hismajestyscabinet/",
-          "access-date": "2021-09-19",
-          "website": "Government of Lesotho",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2020-05-23",
-          "title": "Honourable Motlohi Maliehe",
-          "url": "https://www.gov.ls/team/honourable-prince-maliehe/",
-          "access-date": "2021-09-19",
-          "website": "Government of Lesotho",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
