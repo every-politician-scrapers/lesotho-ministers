@@ -81,6 +81,10 @@
       ],
       "templates": [
         {
+          "description": "King of Lesotho since 1996",
+          "template": "short description"
+        },
+        {
           "date": "November 2020",
           "template": "use dmy dates"
         },
