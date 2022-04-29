@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Lesotho",
+      "id": "Q1013"
+    },
+    "cabinet": {
+      "id":    "Q109818943",
+      "start": "2020-05-21",
+      "parent": "Q96374239"
+    },
+    "source": {
+        "url":   "https://www.gov.ls/hismajestyscabinet/",
+        "title": "Cabinet – Government of Lesotho",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/lesotho-ministers"
+}
