@@ -3,9 +3,10 @@ let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
 module.exports = (id, position, startdate, enddate) => {
-  qualifier = {
-    P580: meta.cabinet.start,
-  }
+  qualifier = { }
+  if(startdate)              qualifier['P580']  = startdate
+  if(enddate)                qualifier['P582']  = enddate
+  if(!startdate && !enddate) qualifier['P5054'] = meta.cabinet.id
 
   refs = { }
 

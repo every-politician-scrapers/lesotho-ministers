@@ -4,6 +4,9 @@
 require 'every_politician_scraper/comparison'
 
 class Comparison < EveryPoliticianScraper::DecoratedComparison
+  def columns
+    %i[item] | super
+  end
 end
 
 diff = Comparison.new('wikidata.csv', 'scraped.csv').diff
