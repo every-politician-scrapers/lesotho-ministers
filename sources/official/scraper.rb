@@ -7,24 +7,31 @@ require 'pry'
 class MemberList
   class Member
     def name
-      Name.new(
-        full: noko.css('.name').text.tidy,
-        prefixes: %w[The Right Honourable],
-      ).short
+      tds[2].text.tidy.gsub('Hon. ', '')
     end
 
     def position
-      noko.css('.designation').text.tidy.split(/and (?=Minister)/).map(&:tidy)
+      tds[1].text.tidy
+    end
+
+    def empty?
+      (tds.count < 3) || name.empty?
+    end
+
+    private
+
+    def tds
+      noko.css('td')
     end
   end
 
   class Members
     def member_items
-      super.reject { |row| row.name.empty? }
+      super.reject(&:empty?)
     end
 
     def member_container
-      noko.css('.tlp-content')
+      noko.xpath('//table[.//td[contains(.,"Finance")]]//tr[td]')
     end
   end
 end

@@ -8,13 +8,14 @@
       "start": "2020-05-21",
       "parent": "Q96374239"
     },
-    "source": {
-        "url":   "https://www.gov.ls/hismajestyscabinet/",
-        "title": "Cabinet – Government of Lesotho",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "https://www.gov.ls/government-ministries/",
+        "P1476": {
+            "text": "Government Ministries – Government of Lesotho",
+            "language": "en"
         }
     },
-    "agent": "every-politican-scrapers/lesotho-ministers"
+    "person_description": {
+        "en": "politician in Lesotho"
+    }
 }

@@ -1,37 +1,35 @@
-name,position
-Dr Moeketsi Majoro,Prime Minister
-Mathibeli Mokhothu,Deputy Prime Minister
-Mathibeli Mokhothu,Minister of Parliamentary Affairs
-Tšoinyane Rapapa,"Minister of Communications, Science and Technology"
-Motlalentoa Letsosa,Minister of Home Affairs
-Motlohi Maliehe,Minister of Forestry and Land Reclamation
-Halebonoe Setšabi,Minister of Defence and National Security
-Lehlohonolo Moramotse,Minister of Public Service
-Serialong Qoo,Minister of Mining
-Keketso Sello,Minister of Agriculture and Food Security
-‘Matebatso Doti,Minister of Social Development
-Mohl. Tšoeu Mokeretla,Minister of Transport
-Thabo Sophonea,Minister of Finance
-Ntloi Motsamai,"Minister of Tourism, Environment and Culture"
-Semano Sekatle,Minister of Health
-Likeleli Tampane,"Minister of Gender, Youth, sports and Recreation"
-Machesetsa Mofomobe,"Minister of Small Business Development, Cooperatives and Marketing"
-Likopo Mahase,Minister in the Prime Minister's Office
-Selibe Mochoboroane,Minister of Development and Planning
-Selemo Mangobe,Minister of Labour and Employment
-‘Matšepo Ramakoae,Minister of Foreign Affairs and International Relations
-Lekhetho Rakuoane,Minister of Law and Justice
-‘Mamookho Phiri,Minister of Education and Training
-Lebohang Monaheng,Minister of Public Works
-Moshe Leoma,Minister of Local Government and Chieftainship
-Kemiso Mosenene,Minister of Water
-Lepota Sekola,Minister of Police and Public Safety
-Mohapi Mohapinyane,Minister of Energy and Meteorology
-Dr Thabiso Molapo,Minister of Trade and Industry
-Tšeliso Kalake,Deputy Minister of Foreign Affairs and International Relations
-‘Maletsema Letsoepa-Lenkoane,Deputy Minister of Education and Training
+itemLabel,positionLabel
+Keketso Sello,Ministry of Agriculture and Food Security
+Tšoinyane Rapapa,"Ministry of Communication, Science & Technology"
+Halebonoe Setšabi,Ministry of Defence and National Security
+Selibe Mochoboroane,Ministry of Development Planning
+Mamookho Phiri,Ministry of Education and Training
+Mohapi Mohapinyane,Ministry of Energy and Meteorology
+Thabo Sophonea,Ministry of Finance
+‘Matṥepo Ramakoae,Ministry of Foreign Affairs and International Relations
+Motlohi Maliehe,Ministry of Forestry and Land Reclamation
+Likeleli Tampane,"Ministry of Gender and Youth, Sports and Recreation"
+Semano Sekatle,Ministry of Health
+Motlalentoa Letsosa,Ministry of Home Affairs
+Selemo Mangobe,Ministry of Labour and Employment
+Adv. Lekhetho Rakuoane,Ministry of Law and Justice
+Moshe Leoma,Ministry of Local Government and Chieftainship Affairs
+Serialong Qoo,Ministry of Mining
+Lepota Sekola,Ministry of Police and Public Safety
+Likopo Mahase,Prime Minister’s Office
+Lehlohonolo Moramotse,Ministry of Public Service
+Lebohang Monahaneng,Ministry of Public Works
+Machesetsa Mofomobe,"Ministry of Small Business Development, Co-operatives and Marketing"
+‘Matebatso Doti,Ministry of Social Development
+Ntlhoi Motsamai,"Ministry of Tourism, Environment and Culture"
+Dr Thabiso Molapo,Ministry of Trade and Industry
+Tṥoeu Mokeretla,Ministry of Transport
+Kemiso Mosenene,Ministry of Water Affairs
 Letsitsi Mokoma,Deputy Minister of Agriculture and Food Security
+‘Maletsema Letsoepa-Lenkoane,Deputy Minister of Education and Training
+Tšeliso Kalake,Deputy Minister of Foreign Affairs and International Relations
+Phutuhelo Mafereka,"Deputy Minister of Gender, Youth and Sports"
 Maimane Maphathe,Deputy Minister of Home Affairs
-Mathato Phafoli,Deputy Minister of Local Government and Chieftainess
-Phutuhelo Mafereka,"Deputy Minister of Gender. Youth, Sports and Recreation"
-Mankoe Maime,Deputy Minister of Water
+Tumahole Lerafa,Ministry of Law and Justice
+Mathato Phafoli,Deputy Minister of Local Government and Chieftainship Affairs
+Mankoe Maime,Deputy Minister of Water Affairs
