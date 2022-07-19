@@ -1,0 +1,151 @@
+{
+  "title": "Likeleli Tampane",
+  "pageID": 68813013,
+  "categories": [
+    "People from Mokhotlong District",
+    "Government ministers of Lesotho",
+    "Members of the National Assembly (Lesotho)",
+    "Living people",
+    "National University of Lesotho alumni",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Likeleli Tampane is the current Minister of Gender and Youth, Sports and Recreation in Lesotho.",
+              "formatting": {
+                "bold": [
+                  "Likeleli Tampane"
+                ]
+              }
+            },
+            {
+              "text": "She was formerly the Minister of Tourism, Environment and Culture."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ministers in Lesotho",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "2018-01-04",
+          "title": "MINISTRY OF GENDER AND YOUTH, SPORTS AND RECREATION",
+          "url": "https://www.gov.ls/ministry-of-gender-youth-and-sports/",
+          "access-date": "2021-09-25",
+          "website": "Government of Lesotho",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "WebMaster",
+          "date": "2020-07-24",
+          "title": "Minister of Gender and Youth, Sports and Recreation, Hon. Likeleli Tampane says the alarming rate of violence against women and children calls for concern, and she condemns it and calls on men to cease with immediate effect such heinous acts.",
+          "url": "http://www.pcfm.co.ls/minister-of-gender-and-youth-sports-and-recreation-hon-likeleli-tampane-says-the-alarming-rate-of-violence-against-women-and-children-calls-for-concern-and-she-condemns-it-and-calls-on-men-to-ceas/",
+          "access-date": "2021-09-25",
+          "website": "PC FM",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Thuseho",
+          "first": "Leemisa",
+          "date": "2021-09-22",
+          "title": "Lesotho: Govt Rewards Khotlele",
+          "url": "https://allafrica.com/stories/202109220726.html",
+          "access-date": "2021-09-25",
+          "website": "allAfrica.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Likeleli Tampane",
+          "url": "https://www.culturesummit.com/people/likeleli-tampane/",
+          "access-date": "2021-09-25",
+          "website": "Edinburgh International Culture Summit",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Background and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Likeleli Tampane was born in Mabuleng, Mokhotolong district in Lesotho.",
+              "links": [
+                {
+                  "text": "Mokhotolong district",
+                  "type": "internal",
+                  "page": "Mokhotlong District"
+                }
+              ]
+            },
+            {
+              "text": "Tampane has a Bachelor’s Degree in Pastoral Care and Counselling from the National University of Lesotho and also a Master’s Degree in Public Sector Management from the African university, Zimbabwe."
+            },
+            {
+              "text": "She also earned a certificate in Adult Education."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tampane was a member of the executive of the African Peer Review Mechanism; in 2011 she stood as a representative sent to South Africa to prepare for Lesotho’s African Peer Review Mechanism launch.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "African Peer Review Mechanism"
+                }
+              ]
+            },
+            {
+              "text": "In 2012 Tampane was appointed as a Member of the Parliament in Lesotho."
+            },
+            {
+              "text": "She also worked as a Teacher and Librarian in Mapholaneng High School in Lesotho."
+            },
+            {
+              "text": "Tampane has held various positions in the government sectors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "lesotho-politician-stub"
+        }
+      ]
+    }
+  ]
+}
