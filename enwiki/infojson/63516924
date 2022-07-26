@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Lesotho)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2017-06-23",
+    "P1365": {
+      "links": [
+        "'Mamphono Khaketla"
+      ],
+      "stated_as": "'Mamphono Khaketla"
+    },
+    "P582": "2020-05-19",
+    "P1366": {
+      "links": [
+        "Thabo Sofonea"
+      ],
+      "stated_as": "Thabo Sofonea"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Lesotho"
+      ],
+      "stated_as": "6th Prime Minister of Lesotho"
+    },
+    "P580": "2020-05-20",
+    "P1365": {
+      "links": [
+        "Tom Thabane"
+      ],
+      "stated_as": "Tom Thabane"
+    }
+  }
+]
