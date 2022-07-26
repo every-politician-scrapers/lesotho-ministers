@@ -1,0 +1,69 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Gender, Youth, Sports and Recreation"
+    },
+    "P580": "2015-03-31",
+    "P1365": {
+      "links": [
+        "Morena T J Maseribane"
+      ],
+      "stated_as": "Morena T J Maseribane"
+    },
+    "P582": "2017-06-16",
+    "P1366": {
+      "links": [
+        "Mahali Phamotse"
+      ],
+      "stated_as": "Mahali Phamotse"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Democratic Congress"
+      ],
+      "stated_as": "Leader of the Democratic Congress"
+    },
+    "P580": "2019-01-28",
+    "P1365": {
+      "links": [
+        "Pakalitha Mosisili"
+      ],
+      "stated_as": "Pakalitha Mosisili"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lesotho"
+      ],
+      "stated_as": "Deputy Prime Minister of Lesotho"
+    },
+    "P580": "2020-05-21",
+    "P1365": {
+      "links": [
+        "Monyane Moleleki"
+      ],
+      "stated_as": "Monyane Moleleki"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Parliamentary Affairs"
+    },
+    "P580": "2020-05-21",
+    "P1365": {
+      "links": [
+        "Monyane Moleleki"
+      ],
+      "stated_as": "Monyane Moleleki"
+    }
+  }
+]

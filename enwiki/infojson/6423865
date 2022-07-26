@@ -1,0 +1,50 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Speakers of the National Assembly of Lesotho",
+        "National Assembly (Lesotho)",
+        "Lesotho"
+      ],
+      "stated_as": "Speaker of the National Assembly of Lesotho"
+    },
+    "P580": "1999",
+    "P1365": {
+      "links": [
+        "John Teboho Kolane"
+      ],
+      "stated_as": "John Teboho Kolane"
+    },
+    "P582": "2012",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Sephiri Motanyane"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Speakers of the National Assembly of Lesotho",
+        "National Assembly (Lesotho)",
+        "Lesotho"
+      ],
+      "stated_as": "Speaker of the National Assembly of Lesotho"
+    },
+    "P580": "2015-03-10",
+    "P1365": {
+      "links": [
+        "Sephiri Motanyane"
+      ],
+      "stated_as": "Sephiri Motanyane"
+    },
+    "P582": "2017-06-03",
+    "P1366": {
+      "links": [
+        "Sephiri Motanyane"
+      ],
+      "stated_as": "Sephiri Motanyane"
+    }
+  }
+]
