@@ -1,0 +1,111 @@
+{
+  "title": "Selibe Mochoboroane",
+  "pageID": 54391862,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Lesotho Congress for Democracy politicians",
+    "Members of the Parliament of Lesotho"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Selibe Mochoboroane (e mot'so moratuoa) is a politician in Lesotho.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lesotho"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Selibe Mochoboroane",
+                  "e mot'so moratuoa)"
+                ]
+              }
+            },
+            {
+              "text": "He is the youngest party leader of the newly founded Movement for Economic Change (MEC), which was announced on 1 February 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Movement for Economic Change"
+                }
+              ]
+            },
+            {
+              "text": "He formed this political party after he was suspended from the Lesotho Congress for Democracy (LCD) which is led by former deputy prime minister Mothejoa Metsing.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lesotho Congress for Democracy"
+                },
+                {
+                  "text": "Mothejoa Metsing",
+                  "type": "internal",
+                  "page": "Mothetjoa Metsing"
+                }
+              ]
+            },
+            {
+              "text": "He has served as a minister in the ministries of local government & chieftainship, Communications Science and Technology, Energy & Metereology, Small Business & Cooperatives as well as development planning."
+            },
+            {
+              "text": "Mochoboroane is the current member of parliament for the Thabana-Morena constituency in Mafeteng, Lesotho.",
+              "links": [
+                {
+                  "text": "Mafeteng",
+                  "type": "internal",
+                  "page": "Mafeteng District"
+                }
+              ]
+            },
+            {
+              "text": "He was also the chairperson of the Public Accounts Committee (PAC) of the 10th parliament of Lesotho."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "January 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "July 2017",
+          "template": "cn"
+        }
+      ],
+      "references": [
+        {
+          "last1": "Ngatane",
+          "first1": "Nthakoana",
+          "title": "Lesotho poll results trickle in",
+          "url": "http://www.sabc.co.za/news/a/f424dc00416591388086cfbafe45a256/Lesothoundefinedpollundefinedresultsundefinedtrickleundefinedin-20170506",
+          "accessdate": "5 July 2017",
+          "work": "SABC News",
+          "date": "5 June 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "lesotho-politician-stub"
+        }
+      ]
+    }
+  ]
+}

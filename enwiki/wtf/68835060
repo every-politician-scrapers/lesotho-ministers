@@ -1,0 +1,122 @@
+{
+  "title": "Lebohang Monaheng",
+  "pageID": 68835060,
+  "categories": [
+    "Living people",
+    "1970 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lebohang Monaheng (born 12 August 1970) is a Minister of Lesotho.",
+              "formatting": {
+                "bold": [
+                  "Lebohang Monaheng"
+                ]
+              }
+            },
+            {
+              "text": "He is serving as the Minister of Public Works sworn-in in May 2020."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ministers in Lesotho",
+          "template": "short description"
+        },
+        {
+          "date": "September 2021",
+          "template": "context"
+        },
+        {
+          "date": "September 2021",
+          "template": "like resume"
+        }
+      ],
+      "references": [
+        {
+          "last": "TheReporter",
+          "date": "2021-05-16",
+          "title": "Public works to build speed humps",
+          "url": "https://www.thereporter.co.ls/2021/05/16/public-works-to-build-speed-humps/",
+          "access-date": "2021-09-28",
+          "website": "The Reporter Lesotho {{!}} Fresh News, Daily",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-05-28",
+          "title": "Honourable Lebohang Monaheng",
+          "url": "https://www.gov.ls/team/monaheng/",
+          "access-date": "2021-09-28",
+          "website": "Government of Lesotho",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Background and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Monaheng was born in 1970 in Maseru District and grew up in Makhaleng in Lesotho.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maseru District"
+                },
+                {
+                  "type": "internal",
+                  "page": "Makhaleng"
+                }
+              ]
+            },
+            {
+              "text": "Monaheng got his primary school certificate from Lithabaneng Primary School, Maseru and his high school certificate from Masianokeng High School, Lesotho."
+            },
+            {
+              "text": "In 1994, Monaheng received a Diploma in Motor Mechanics from Technical School in Leribe District in Lesotho."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Monaheng started his career as an Assistant Clerk in Lesotho Communication, he also worked at a Moolman Construction as a Mechanic."
+            },
+            {
+              "text": "Monaheng occupied other positions in different firms before he went into politics in 2004 and became a member of Lesotho congress for democracy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

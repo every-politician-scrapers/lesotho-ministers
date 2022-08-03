@@ -1,0 +1,145 @@
+{
+  "title": "Lekhetho Rakuoane",
+  "pageID": 68835301,
+  "categories": [
+    "Living people",
+    "1960 births",
+    "National University of Lesotho alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lekhetho Rakuoane (born 20 May 1960) is the Minister of Law and Justice of Lesotho.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lesotho"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lekhetho Rakuoane"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as the Minister of Tourism, Environment and Culture and Minister of Home Affairs."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ministers in Lesotho",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-05-21",
+          "title": "Rakuoane speaks on constitutional amendment",
+          "url": "https://lestimes.com/rakuoane-speaks-on-constitutional-amendment/",
+          "access-date": "2021-09-28",
+          "website": "Lesotho Times",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-05-23",
+          "title": "Honourable Lekhetho Rakuoane",
+          "url": "https://www.gov.ls/team/rakuoane/",
+          "access-date": "2021-09-28",
+          "website": "Government of Lesotho",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Background and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rakuoane was born in 1960 and he is from Mosotho in Lesotho.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mosotho"
+                }
+              ]
+            },
+            {
+              "text": "He got his high school certificate in Holy Names High School."
+            },
+            {
+              "text": "He bagged his bachelor's degree in Law from the National University of Lesotho."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rakuoane had a position in the National Assembly as the Deputy Speaker."
+            },
+            {
+              "text": "He is also the Head of the Popular Front for Democracy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Popular Front for Democracy"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-04-22",
+          "title": "Virus-free Lesotho extends lockdown amid political showdown",
+          "url": "https://www.vanguardngr.com/2020/04/virus-free-lesotho-extends-lockdown-amid-political-showdown/",
+          "access-date": "2021-09-28",
+          "website": "Vanguard News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "AfricaNews",
+          "date": "2020-05-13",
+          "title": "Lesotho records COVID-19 case, last African nation to be infected",
+          "url": "https://www.africanews.com/2020/05/13/virus-free-lesotho-rolls-out-socio-economic-interventions/",
+          "access-date": "2021-09-28",
+          "website": "Africanews",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
